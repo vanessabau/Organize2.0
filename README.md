@@ -8,6 +8,8 @@ A grassroots community organizing resource creating a hub for community organize
 
 # [![Watch the video]](https://www.youtube.com/watch?v=5j6DQmioua4&feature=youtu.be)
 
+## Deployed Application: https://organize-demo.herokuapp.com/
+
 ## TABLE OF CONTENTS
 
 1. [Installation](###Installation)

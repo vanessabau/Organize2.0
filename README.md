@@ -6,7 +6,7 @@ A grassroots community organizing resource creating a hub for community organize
 
 ## Click video link below to watch demo
 
-# [![Watch the video]](https://www.youtube.com/watch?v=5j6DQmioua4&feature=youtu.be)
+# [Watch demo of deployed application on YouTube](https://www.youtube.com/watch?v=5j6DQmioua4&feature=youtu.be)
 
 ## Deployed Application: https://organize-demo.herokuapp.com/
 

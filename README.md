@@ -4,12 +4,6 @@ A grassroots community organizing resource creating a hub for community organize
 
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-## GITHUB USER: vanessabau
-
-## GITHUB EMAIL: null
-
-# ![vanessabau](https://avatars2.githubusercontent.com/u/59780981?v=4)
-
 ## Click video link below to watch demo
 
 # [![Watch the video]](https://www.youtube.com/watch?v=5j6DQmioua4&feature=youtu.be)
